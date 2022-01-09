@@ -1,0 +1,13 @@
+problemas:
+
+ex03: nao passa nos testes
+ex04: nao passa nos testes
+ex06: nao passa nos testes
+ex07: nao passa nos testes
+ex08: incompleto
+ex10: nao esta feito
+ex13: incompleto
+ex14: segmentation fault nos testes, mas corre no main e faz contas direito
+ex15: nao esta feito
+ex16: nao esta feito
+ex17: nao esta feito

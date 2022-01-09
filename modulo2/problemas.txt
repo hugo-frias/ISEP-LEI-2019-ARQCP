@@ -1,0 +1,4 @@
+Problemas:
+
+ex17: assumindo que powers of 2 é A^2 e powers of 3 é A^3
+ex20: devolve um inteiro em vez de um char (como pede no enunciado). Mesmo assim, está completamente funcional e passa nos testes

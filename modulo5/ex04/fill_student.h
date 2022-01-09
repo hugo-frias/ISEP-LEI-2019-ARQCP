@@ -1,0 +1,7 @@
+#ifndef fill_student_H
+#define fill_student_H
+#include "student.h"
+void fill_student(Student *s, char age, short number, char *name, char *address);
+void update_address(Student *s, char *new_address);
+void fill_all_students(Student *s, char *age, short *number, char *name, char *address, int num);
+#endif

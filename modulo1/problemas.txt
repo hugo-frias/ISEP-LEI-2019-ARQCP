@@ -1,0 +1,10 @@
+﻿Problemas:
+
+ex09: não consegue rodar testes (talvez algum erro neste ficheiro de testes? ou algum erro num nome/makefile?)
+ex11: falha em alguns testes;
+ex18: não está feito;
+ex19: o 19 falha em testes diferentes/nº de testes a falhar difere sem fazermos alterações no codigo;
+ex20: Incompleto
+
+
+                                        
